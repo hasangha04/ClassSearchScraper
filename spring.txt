@@ -1,0 +1,192 @@
+Text: ACCT-4910 Special Topics (2 to 5 Credits)
+Requisites: None
+---
+Text: ART-1910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ART-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ARTH-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: BCOM-1120 Business Editing (2 Credits)
+Requisites: None
+---
+Text: BUAD-1000 Albers Business Integration (2 Credits)
+Requisites: None
+---
+Text: CEEGR-3020 Global Engineering Economics (3 Credits)
+Requisites: None
+---
+Text: CHEM-4990 Undergraduate Research (1 to 6 Credits)
+Requisites: None
+---
+Text: CMME-2170 Intercollege Speech & Debate (1 Credits)
+Requisites: None
+---
+Text: CMME-2270 Media Practicum I (1 Credits)
+Requisites: None
+---
+Text: CMME-2271 Media Practicum II (1 Credits)
+Requisites: None
+---
+Text: CMME-2272 Media Practicum III (1 Credits)
+Requisites: None
+---
+Text: CMME-3272 Media Practicum Vi (1 Credits)
+Requisites: None
+---
+Text: CMME-3302 Topics Strategic Communicatn (1 to 5 Credits)
+Requisites: None
+---
+Text: CPSC-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: CRJS-4540 Dea Practicum (1 Credits)
+Requisites: None
+---
+Text: CRJS-4870 Senior Synthesis (3 to 5 Credits)
+Requisites: None
+---
+Text: ECEGR-4890 Engineering Design III (3 Credits)
+Requisites: None
+---
+Text: EDLS-3700 Arts, Health, Fitness (2 Credits)
+Requisites: None
+---
+Text: EDLS-3750 Child Abuse and Related Issues (1 Credits)
+Requisites: None
+---
+Text: ELCB-0910 Advanced Communication (3 Credits)
+Requisites: None
+---
+Text: ELCB-1020 Research Paper Writing (2 Credits)
+Requisites: None
+---
+Text: ENGL-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ENGL-4900 Senior Synthesis Capstone (5 to 5 Credits)
+Requisites: None
+---
+Text: FILM-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: FILM-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: IDLS-2020 Teaching Diverse Classrooms (3 Credits)
+Requisites: None
+---
+Text: KINE-4950 Internship (2 to 10 Credits)
+Requisites: None
+---
+Text: MEGR-4890 Engineering Design III (3 Credits)
+Requisites: None
+---
+Text: MLSC-1030 Basic Leadership II (2 Credits)
+Requisites: None
+---
+Text: MLSC-2150 Leader's Training Course (1 to 5 Credits)
+Requisites: None
+---
+Text: MLSC-3030 Leadership & Prob Solving III (3 Credits)
+Requisites: None
+---
+Text: MLSC-4030 Officership (3 Credits)
+Requisites: None
+---
+Text: MUSC-1100 Applied Lessons I: Piano (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1110 Applied Lessons I: Voice (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1150 Applied Lessons I: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1230 Guitar Lessons (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1300 University Chorale I (1 Credits)
+Requisites: None
+---
+Text: MUSC-1310 Chamber Singers I (1 Credits)
+Requisites: None
+---
+Text: MUSC-1340 University Singers (1 Credits)
+Requisites: None
+---
+Text: MUSC-2150 Applied Lessons Ii: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-2350 String Chamber Ensemble (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-3100 Applied Lessons Iii: Piano (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-3110 Applied Lessons Iii: Voice (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-3150 Applied Lessons Iii: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-4150 Applied Lessons Iv: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-4350 String Chamber Ensemble (1 Credits)
+Requisites: None
+---
+Text: NURS-2360 Nursing Research Methods (3 Credits)
+Requisites: None
+---
+Text: NURS-3190 Older Adults - Theory (2 Credits)
+Requisites: None
+---
+Text: NURS-3191 Older Adults - Clinical (3 Credits)
+Requisites: None
+---
+Text: NURS-4790 Transition Prof Nurs Practice (2 Credits)
+Requisites: None
+---
+Text: NURS-4791 Senior Practicum (6 Credits)
+Requisites: None
+---
+Text: PHOT-3650 Business of Photo (3 Credits)
+Requisites: None
+---
+Text: PSYC-2630 Developing Compassion (2 Credits)
+Requisites: None
+---
+Text: PUBA-4400 Research Design and Statistics (5 to 5 Credits)
+Requisites: None
+---
+Text: PUBA-4410 Policy Analysis (5 to 5 Credits)
+Requisites: None
+---
+Text: SOCL-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: SOCW-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: SOCW-4320 Domestic Violence (3 Credits)
+Requisites: None
+---
+Text: SOCW-4340 Intro Alcohol & Drug Addiction (3 Credits)
+Requisites: None
+---
+Text: THTR-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: THTR-4000 Performance/prod Practicum (1 to 5 Credits)
+Requisites: None
+---
+Text: WGST-1910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: WGST-4790 Honors: Thesis Supervision (3 Credits)
+Requisites: None
+---

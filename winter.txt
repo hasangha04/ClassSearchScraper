@@ -1,0 +1,257 @@
+Text: ANTH-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ANTH-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ANTH-4780 Honors Directed Studying (3 Credits)
+Requisites: None
+---
+Text: ART-1910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ART-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ARTD-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ARTH-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: BCOM-1120 Business Editing (2 Credits)
+Requisites: None
+---
+Text: BLAW-4910 Special Topics (2 to 5 Credits)
+Requisites: None
+---
+Text: BUAD-2820 Ldrshp Dvlp Business Student I (3 Credits)
+Requisites: None
+---
+Text: CEEGR-3020 Global Engineering Economics (3 Credits)
+Requisites: None
+---
+Text: CEEGR-3260 Transportation Engineering (3 Credits)
+Requisites: None
+---
+Text: CEEGR-3760 Environmental Law and Impact (3 Credits)
+Requisites: None
+---
+Text: CHEM-4990 Undergraduate Research (1 to 6 Credits)
+Requisites: None
+---
+Text: CMME-2170 Intercollege Speech & Debate (1 Credits)
+Requisites: None
+---
+Text: CMME-2271 Media Practicum II (1 Credits)
+Requisites: None
+---
+Text: CMME-3102 Topics Communication Studies (1 to 5 Credits)
+Requisites: None
+---
+Text: CMME-3270 Media Practicum IV (1 Credits)
+Requisites: None
+---
+Text: CMME-3910 Special Topics Communication (1 to 5 Credits)
+Requisites: None
+---
+Text: CPSC-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: CRJS-4580 Fbi Practicum (1 Credits)
+Requisites: None
+---
+Text: CRJS-4870 Senior Synthesis (3 to 5 Credits)
+Requisites: None
+---
+Text: ECEGR-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: EDLS-4450 Assessmnt & Positive Lrning II (1 Credits)
+Requisites: None
+---
+Text: ELCB-0880 Communication Essentials (3 Credits)
+Requisites: None
+---
+Text: ELCB-0910 Advanced Communication (3 Credits)
+Requisites: None
+---
+Text: ELCB-1020 Research Paper Writing (2 Credits)
+Requisites: None
+---
+Text: ENGL-2135 Grammar and Punctuation (2 Credits)
+Requisites: None
+---
+Text: ENGL-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ENGL-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: ENSC-3760 Environmental Law & Impact (3 Credits)
+Requisites: None
+---
+Text: EVST-3750 Environmental Careers (3 Credits)
+Requisites: None
+---
+Text: EVST-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: FILM-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: HIST-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: HUMT-2720 Suprvsd Internshp Elem/sec Edu (3 Credits)
+Requisites: None
+---
+Text: HUMT-3500 Applied Ethics Workshop (2 to 3 Credits)
+Requisites: None
+---
+Text: INST-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: MEGR-1050 Engineering Graphics & Design (3 Credits)
+Requisites: None
+---
+Text: MLSC-1020 Basic Leadership I (2 Credits)
+Requisites: None
+---
+Text: MLSC-2020 Leadership & Teamwork (2 Credits)
+Requisites: None
+---
+Text: MLSC-2040 Leadership Stud in Amer Mil Hi (2 Credits)
+Requisites: None
+---
+Text: MLSC-2170 Physical Conditioning I (2 Credits)
+Requisites: None
+---
+Text: MLSC-3020 Leadership & Prob Solving II (3 Credits)
+Requisites: None
+---
+Text: MLSC-4020 Leadership & Management II (3 Credits)
+Requisites: None
+---
+Text: MUSC-1100 Applied Lessons I: Piano (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1110 Applied Lessons I: Voice (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1150 Applied Lessons I: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1230 Guitar Lessons (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-1300 University Chorale I (1 Credits)
+Requisites: None
+---
+Text: MUSC-1310 Chamber Singers I (1 Credits)
+Requisites: None
+---
+Text: MUSC-1340 University Singers (1 Credits)
+Requisites: None
+---
+Text: MUSC-2150 Applied Lessons Ii: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-2650 Audio Recording and Production (3 Credits)
+Requisites: None
+---
+Text: MUSC-3100 Applied Lessons Iii: Piano (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-3110 Applied Lessons Iii: Voice (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-3150 Applied Lessons Iii: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: MUSC-4150 Applied Lessons Iv: Strings (1 to 2 Credits)
+Requisites: None
+---
+Text: NURS-2520 Health Care in 21st Century (3 Credits)
+Requisites: None
+---
+Text: NURS-3190 Older Adults - Theory (2 Credits)
+Requisites: None
+---
+Text: NURS-3191 Older Adults - Clinical (3 Credits)
+Requisites: None
+---
+Text: NURS-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PHOT-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PHOT-3650 Business of Photo (3 Credits)
+Requisites: None
+---
+Text: PHOT-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PHOT-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PLSC-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PSYC-2610 Building Resilience (2 Credits)
+Requisites: None
+---
+Text: PSYC-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PSYC-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PSYC-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: PUBA-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: SOCL-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: SOCL-4780 Honors:directed Stdy (3 Credits)
+Requisites: None
+---
+Text: SOCL-4910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: SOCW-3010 Human Behav in Soc Environmt (3 Credits)
+Requisites: None
+---
+Text: SOCW-4330 Politics of Homelessness (3 Credits)
+Requisites: None
+---
+Text: SOCW-4780 Honors:directed Study (3 Credits)
+Requisites: None
+---
+Text: THTR-2650 Audio Recording and Production (3 Credits)
+Requisites: None
+---
+Text: THTR-3400 Movement (3 Credits)
+Requisites: None
+---
+Text: THTR-4000 Performance/prod Practicum (1 to 5 Credits)
+Requisites: None
+---
+Text: UCOR-1910 *Engaging Seattle (2 Credits)
+Requisites: None
+---
+Text: WGST-1910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: WGST-2910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: WGST-3910 Special Topics (1 to 5 Credits)
+Requisites: None
+---
+Text: WGST-4800 Race/gender/sexuality Studies (3 to 5 Credits)
+Requisites: None
