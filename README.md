@@ -1,1 +1,3 @@
-# ClassSearchScraper
+# Class Search Scraper
+
+I have created two web scrapers to explore Seattle University's course catalog. The primary goal of these web scrapers is to identify classes that are not 5 or 4-credit courses. Both web scrapers serve the same purpose, with the only distinction being that one is designed for Chrome, and the other is tailored for Firefox. The Firefox scraper is configured to search for courses in the winter quarter, while the Chrome scraper is set to search for courses in the spring quarter. Selenium is utilized in both web scrapers because the courses load dynamically, and deliberate pauses have been incorporated between functions to allow for proper page loading.
